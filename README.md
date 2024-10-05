@@ -19,6 +19,8 @@ This Project Management PowerApp integrates data from SharePoint lists and displ
 
 - CRUD Operations: Allows users to create, edit, delete, and manage project records directly within the app.
 
+- Dynamic filtering to enhance user experiences
+
 
 
 
