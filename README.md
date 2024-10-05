@@ -3,7 +3,7 @@
 ## Overview
 
 
-This Project Management PowerApp integrates data from SharePoint lists and displays project metrics through Power BI dashboards. It enables users to manage project details, track key performance indicators (KPIs), and seamlessly navigate between different service areas to create and update projects. The app is designed for managers and directors to efficiently oversee and manage projects within their organization.
+This Project Management PowerApp integrates data from SharePoint lists and displays project metrics through a Power BI dashboard. It enables users to manage project details, track key performance indicators (KPIs), and seamlessly navigate between different service areas to create and update projects. The app is designed for managers and directors to efficiently oversee and manage projects within their organization.
 
 ## Features
 
